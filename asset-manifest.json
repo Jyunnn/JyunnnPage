@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/JyunnnPage/static/css/main.4c03653e.chunk.css",
+    "main.js": "/JyunnnPage/static/js/main.6975e408.chunk.js",
+    "main.js.map": "/JyunnnPage/static/js/main.6975e408.chunk.js.map",
+    "runtime-main.js": "/JyunnnPage/static/js/runtime-main.8fb84c90.js",
+    "runtime-main.js.map": "/JyunnnPage/static/js/runtime-main.8fb84c90.js.map",
+    "static/js/2.3d2a2286.chunk.js": "/JyunnnPage/static/js/2.3d2a2286.chunk.js",
+    "static/js/2.3d2a2286.chunk.js.map": "/JyunnnPage/static/js/2.3d2a2286.chunk.js.map",
+    "static/js/3.3364941e.chunk.js": "/JyunnnPage/static/js/3.3364941e.chunk.js",
+    "static/js/3.3364941e.chunk.js.map": "/JyunnnPage/static/js/3.3364941e.chunk.js.map",
+    "index.html": "/JyunnnPage/index.html",
+    "static/css/main.4c03653e.chunk.css.map": "/JyunnnPage/static/css/main.4c03653e.chunk.css.map",
+    "static/js/2.3d2a2286.chunk.js.LICENSE.txt": "/JyunnnPage/static/js/2.3d2a2286.chunk.js.LICENSE.txt",
+    "static/media/image_demo.7e76ccff.jpg": "/JyunnnPage/static/media/image_demo.7e76ccff.jpg",
+    "static/media/myweb_coding.9ba2084a.png": "/JyunnnPage/static/media/myweb_coding.9ba2084a.png",
+    "static/media/myweb_design.192ccde2.png": "/JyunnnPage/static/media/myweb_design.192ccde2.png",
+    "static/media/myweb_skill.016eabaa.png": "/JyunnnPage/static/media/myweb_skill.016eabaa.png",
+    "static/media/myweb_speak.040175df.png": "/JyunnnPage/static/media/myweb_speak.040175df.png",
+    "static/media/myworks-01.9d94be96.jpg": "/JyunnnPage/static/media/myworks-01.9d94be96.jpg",
+    "static/media/myworks-02.0f298fec.jpg": "/JyunnnPage/static/media/myworks-02.0f298fec.jpg",
+    "static/media/myworks-03.2d8d2d23.jpg": "/JyunnnPage/static/media/myworks-03.2d8d2d23.jpg",
+    "static/media/myworks-04.f04631cb.jpg": "/JyunnnPage/static/media/myworks-04.f04631cb.jpg",
+    "static/media/myworks-05.29b71035.jpg": "/JyunnnPage/static/media/myworks-05.29b71035.jpg",
+    "static/media/myworks-06.2bead673.jpg": "/JyunnnPage/static/media/myworks-06.2bead673.jpg",
+    "static/media/wqn2020-01.13a34926.jpg": "/JyunnnPage/static/media/wqn2020-01.13a34926.jpg",
+    "static/media/wqn2020-02.c31d52fb.jpg": "/JyunnnPage/static/media/wqn2020-02.c31d52fb.jpg",
+    "static/media/wqn2021-01.34928978.jpg": "/JyunnnPage/static/media/wqn2021-01.34928978.jpg",
+    "static/media/wqn2021-02.f903b965.jpg": "/JyunnnPage/static/media/wqn2021-02.f903b965.jpg",
+    "static/media/wqn2021-03.d087d175.jpg": "/JyunnnPage/static/media/wqn2021-03.d087d175.jpg",
+    "static/media/wqn2021-04.a38f6d0e.jpg": "/JyunnnPage/static/media/wqn2021-04.a38f6d0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fb84c90.js",
+    "static/js/2.3d2a2286.chunk.js",
+    "static/css/main.4c03653e.chunk.css",
+    "static/js/main.6975e408.chunk.js"
+  ]
+}
