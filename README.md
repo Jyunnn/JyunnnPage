@@ -7,5 +7,5 @@ https://jyunnn.github.io/JyunnnPage/
 
 目前正在研究 
 - Three.js
-- Electron
+- TypeScript
 
